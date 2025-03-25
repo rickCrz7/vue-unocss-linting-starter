@@ -5,5 +5,8 @@ import { defineConfig } from 'vite';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    plugins: [vue(), UnoCSS()]
+    plugins: [vue(), UnoCSS()],
+    server: {
+        port: 3000
+    }
 });
