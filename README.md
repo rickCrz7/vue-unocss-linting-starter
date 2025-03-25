@@ -5,6 +5,7 @@ A modern Vue 3 starter template with:
 - **UnoCSS**: Instant on-demand atomic CSS engine.
 - **ESLint**: Modern linting configuration.
 - **Prettier**: Code formatting for consistent style.
+- **Vue-Router**: Routing for single-page applications.
 
 ---
 
@@ -17,12 +18,12 @@ A modern Vue 3 starter template with:
 
 2. Install dependencies:
    ```bash
-   npm install
+   pnpm install
    ```
 
 3. Start the development server:
    ```bash
-   npm run dev
+   pnpm run dev
    ```
 
 ---
@@ -59,6 +60,7 @@ This configuration will:
 - **UnoCSS**: Utility-first CSS with on-demand generation.
 - **ESLint**: Modern linting setup.
 - **Prettier**: Consistent code formatting.
+- **Vue-Router**: Routing for single-page applications.
 
 ---
 
